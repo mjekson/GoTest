@@ -1,0 +1,1 @@
+eval $(cat ./.env | xargs -0) go run Test1/hello.go
